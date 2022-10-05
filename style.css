@@ -40,7 +40,7 @@ section.hero{
 article.img{
     background-image: url(imagens/hero.jpg);
     height: 700px;
-    width: 100vw;
+    width: 90vw;
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -118,10 +118,10 @@ article.oi{
 article.oi>img{
     margin: 15px;
     height: 400px;
-    width: 500px;
+    width: 380px;
 }
 article.oi>img.um{
-    width: 500px;
+    width: 380px;
 }
 
 @media (min-width:992px){
